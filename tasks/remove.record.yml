@@ -12,5 +12,6 @@
     url:          '{{api_server_url}}'
     method:       DELETE
     body_format:  json
+    status_code: 200, 204
     headers:
       Authorization: '{{authorization}}'
