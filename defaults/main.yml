@@ -6,4 +6,4 @@ api_server:   'https://api.godaddy.com'
 api_version:  '1'
 data:         '' # allow
 type:         'A'
-ttl:          3600
+ttl:          600
